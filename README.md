@@ -423,25 +423,16 @@ Confusion matrix - For the Confusion Matrix there are two parameters tested and 
  
  
 7.CONCLUSION
-                                                    Nowadays, the loan business has become more and more popular, and many people apply for loans for various reasons.  However, there are cases where people do not repay the bulk of the loan amount to the bank which results in huge financial loss.  Hence, if there is a way that can efficiently classify the loaners in advance, it would greatly prevent the financial loss.
+                                                  
+                                                  Nowadays, the loan business has become more and more popular, and many people apply for loans for various reasons.  However, there are cases where people do not repay the bulk of the loan amount to the bank which results in huge financial loss.  Hence, if there is a way that can efficiently classify the loaners in advance, it would greatly prevent the financial loss.
                                                       In this study, the dataset was cleaned first, and the exploratory data analysis and feature engineering were performed.  The strategies to deal with both missing values and imbalanced data  sets  were  covered.   Then  we  propose  four  machine  learning  models  to  predict  if  the applicant  could  repay  the  loan,  which  are ANN,Logistic regression.
                                                       As we expected, borrowers with higher annual income are more likely to repay the loan fully.In addition, borrowers with lower interest rates and smaller installments are more likely to pay the loan fully.
  
  
- 
- 
- 
- 
-.
- 
- 
- 
- 
- 
- 
- 
- 
-[REFERENCES]
+ REFERENCES
+ https://dataaspirant.com/how-logistic-regression-model-works/
+ https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-artificial-neural-network-6a3f2bc0eecb
+ https://technocolabs-internship.gitbook.io/internship-prerequisites-learning-resources/
  
  
  
